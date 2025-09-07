@@ -8,3 +8,9 @@ He purchased the domain: **epicreads.com**.
 - In **50–100 words**, explain in your own words:
   1. What is **DNS (Domain Name System)**?  
   2. Which **DNS record type** should be used to connect the domain to the given IP, and why?  
+
+## How to Submit Your Assignment
+
+Please follow the submission guidelines explained during the live session.  
+
+DevOps Micro Internship [Assignment Master Sheets](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=778153827#gid=778153827)
