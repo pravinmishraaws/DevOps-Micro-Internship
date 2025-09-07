@@ -16,4 +16,4 @@ Publishing on **LinkedIn** helps you:
    - VS Code Setup  
 3. Add the following **credit note** at the end of your post:  
 
-> P.S. This post is part of the FREE DevOps for Beginners Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
+> P.S. This post is part of the FREE **DevOps Micro Internship** Cohort run by **[Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)**. You can start your DevOps journey for free from his **[YouTube Playlist](https://www.youtube.com/playlist?list=PLVOdqXbCs7bX88JeUZmK4fKTq2hJ5VS89)**.
