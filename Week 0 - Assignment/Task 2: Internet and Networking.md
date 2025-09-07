@@ -12,3 +12,9 @@ He asked you to explain how users globally can access his website hosted in Finl
   - **HTTP/HTTPS**  
 
 💡 *Tip: You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.*  
+
+## How to Submit Your Assignment
+
+Please follow the submission guidelines explained during the live session.  
+
+DevOps Micro Internship [Assignment Master Sheets](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=778153827#gid=778153827)
