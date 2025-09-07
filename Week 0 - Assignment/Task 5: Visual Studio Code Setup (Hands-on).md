@@ -11,3 +11,6 @@
      ls    # for Linux/Mac
      ```  
    - Your **selected VS Code theme** clearly visible  
+
+⚠️ Screenshot must show your **username or identifiable detail** to confirm it’s your environment.  
+
