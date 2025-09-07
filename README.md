@@ -1,7 +1,7 @@
 # DevOps-Micro-Internship
 This is Repository for DevOps Micro Internship by Pravin Mishra 
 
-### [Week 0 Assignment]()
+### [Week 0 Assignment](https://github.com/pravinmishraaws/DevOps-Micro-Internship/tree/8eb1a5d5da7ab9a3040c774903765428e95976bc/Week%200%20-%20Assignment)
 
 ### [Week 1 Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=0#gid=0)
 
