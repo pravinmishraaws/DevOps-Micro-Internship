@@ -29,7 +29,7 @@ VPC, one **public subnet** (EC2 web), **two private subnets** (RDS MySQL), SGs, 
 ### Part B — Build & Validate
 
 
-### Part C — Deploy **
+### Part C — Deploy
 
 
 ### Part D — Promote to **prod**
