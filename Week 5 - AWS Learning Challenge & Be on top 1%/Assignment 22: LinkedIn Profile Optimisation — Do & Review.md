@@ -1,4 +1,4 @@
-# Assignment 21: LinkedIn Profile Optimisation — Do & Review
+# Assignment 22: LinkedIn Profile Optimisation — Do & Review
 
 ## Objective
 
