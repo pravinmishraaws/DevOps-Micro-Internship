@@ -8,7 +8,7 @@ Reinforce your AWS learning by actively watching and reflecting on 13 key videos
 **Outcome:** This assignment will help you move from **passive watching (20% retention)** to **active recall (50–80% retention)**.
 
 **Playlist Link:**
-🔗 [AWS Live Sessions & Hands-On Playlist](https://www.youtube.com/playlist?list=PLVOdqXbCs7bXTSCuuCmyck7ShTY5OevQn)
+🔗 [AWS Live Sessions & Hands-On Playlist](https://www.youtube.com/watch?v=svAZmUdB8d8&list=PLVOdqXbCs7bXTSCuuCmyck7ShTY5OevQn)
 
 ---
 
