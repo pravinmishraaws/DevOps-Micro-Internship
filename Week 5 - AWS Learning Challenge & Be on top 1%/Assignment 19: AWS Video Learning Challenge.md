@@ -1,6 +1,6 @@
 ## Assignment 19: AWS Video Learning Challenge
 
-**Watch → Reflect → Commentt** 
+**Watch → Reflect → Comment** 
 
 **Objective:**
 Reinforce your AWS learning by actively watching and reflecting on 13 key videos from our playlist. This will help you understand concepts deeply and remember longer.
