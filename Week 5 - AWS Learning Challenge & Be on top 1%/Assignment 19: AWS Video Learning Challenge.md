@@ -42,16 +42,16 @@ Reinforce your AWS learning by actively watching and reflecting on 13 key videos
 
 **Group Number + Your Name:** Group 1 Priya Ranjan
 
-** 3 Key Learnings:**
+**3 Key Learnings:**
 
 1. IAM is global and not region-specific
 2. Difference between users, groups, and roles
 3. IAM policies are JSON documents attached to identities
 
-** 1 Question:**
+**1 Question:**
 Can we attach multiple policies to the same IAM role?
 
-** 1 Real-World Use:**
+**1 Real-World Use:**
 I will create separate IAM roles for backend and frontend developers in my project.
 
 ---
