@@ -17,7 +17,7 @@ Follow the [LinkedIn Profile Optimisation Checklist](https://docs.google.com/doc
 
 ### Part B — Peer Review (YouTube Comments)
 
-Under the live session video:
+Under the **[Build a Winning LinkedIn Profiles video](https://www.youtube.com/live/dHvT0HJ-nAg)**:
 
 1. Post your LinkedIn URL
 2. Review the **two profiles directly above yours**, using this exact format:
