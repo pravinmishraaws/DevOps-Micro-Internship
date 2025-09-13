@@ -1,11 +1,11 @@
 ## Assignment 19: AWS Video Learning Challenge
 
-**Title:** Watch → Reflect → Comment – AWS Playlist Assignment
+**Watch → Reflect → Commentt** 
 
 **Objective:**
-Reinforce your AWS learning by actively watching and reflecting on 13 key videos from our playlist. This will help you understand concepts deeply, remember longer, and build your public learning presence on YouTube.
+Reinforce your AWS learning by actively watching and reflecting on 13 key videos from our playlist. This will help you understand concepts deeply and remember longer.
 
-**Outcome:** This assignment will help you move from **passive watching (20% retention)** to **active recall (50–80% retention)** while building your public learning presence.
+**Outcome:** This assignment will help you move from **passive watching (20% retention)** to **active recall (50–80% retention)**.
 
 **Playlist Link:**
 🔗 [AWS Live Sessions & Hands-On Playlist](https://www.youtube.com/playlist?list=PLVOdqXbCs7bXTSCuuCmyck7ShTY5OevQn)
