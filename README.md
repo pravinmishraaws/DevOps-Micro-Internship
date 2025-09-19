@@ -13,6 +13,6 @@ This is Repository for DevOps Micro Internship by Pravin Mishra
 
 ### [Week 5 - AWS Learning Challenge & Be on top 1%](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=182177954#gid=182177954) 
 
-### [Week 6 - Azure for DevOps Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=182177954#gid=182177954) 
+### [Week 6 - Azure for DevOps Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=320025345#gid=320025345) 
 
 
