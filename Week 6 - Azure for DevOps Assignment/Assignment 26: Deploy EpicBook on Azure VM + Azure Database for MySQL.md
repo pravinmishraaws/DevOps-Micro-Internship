@@ -1,4 +1,4 @@
-# Assignment 26: Deploy **EpicBook** on Azure VM + **Azure Database for MySQL** (VNet Private Access)
+# Assignment 26: Deploy **EpicBook** on Azure VM + **Azure Database for MySQL**
 
 ## Objective
 
