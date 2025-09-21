@@ -1,4 +1,4 @@
-# Assignment 26: Deploy **EpicBook** on Azure VM + **Azure Database for MySQL**
+# Assignment 27: Deploy **EpicBook** on Azure VM + **Azure Database for MySQL**
 
 ## Objective
 
