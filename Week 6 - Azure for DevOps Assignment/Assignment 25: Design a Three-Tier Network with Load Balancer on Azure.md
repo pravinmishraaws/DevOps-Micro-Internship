@@ -40,7 +40,7 @@ You will build this structure:
 
 ---
 
-## Tasks
+## Tasks [Watch step by step guide here](https://youtu.be/1XtZPrydvbw?t=8259)
 
 ### **Step 1: Create a Resource Group**
 
