@@ -27,7 +27,7 @@ Deploy a production-ready **[React application](https://github.com/pravinmishraa
 
 ---
 
-## Instructions (Step-by-Step)
+## Instructions (Step-by-Step) ([Watch video here](https://www.youtube.com/live/1XtZPrydvbw?t=2881s))
 
 ### 1) Create a Resource Group
 
