@@ -18,7 +18,7 @@ cd Azure-Static-Website
 * Open `index.html` and edit the footer to read:
   **Hosted by \[Your Name]**
 
-3. **Create a Storage Account**
+3. **Create a Storage Account([Watch hands-on video](https://youtu.be/1XtZPrydvbw?t=12425))**
 
 * In Azure Portal → **Storage accounts** → **Create**
 
@@ -26,7 +26,7 @@ cd Azure-Static-Website
   * Redundancy: LRS (ok for demo)
   * Public access: Enabled
 
-4. **Enable Static Website**
+4. **Enable Static Website([Watch hands-on here](https://youtu.be/1XtZPrydvbw?t=13695))**
 
 * Storage account → **Settings > Static website** → **Enable**
 * Set **Index document name**: `index.html`
