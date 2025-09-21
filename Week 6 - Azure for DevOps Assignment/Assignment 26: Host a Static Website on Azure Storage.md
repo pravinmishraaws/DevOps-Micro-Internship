@@ -60,13 +60,16 @@ cd Azure-Static-Website
 
 ## LinkedIn caption (copy–paste & edit)
 
-> I just deployed my first **Azure Static Website** 🚀
-> This wasn’t just about uploading files — I got hands-on with:
-> ✅ Azure static website hosting setup
-> ✅ Configuring permissions & public access
-> ✅ Deploying a live website in minutes
-> Here’s my hosted page 👉 **\[Insert your Azure static website link]**
-> \#Azure #DevOps #Cloud #LearningInPublic
+I just deployed my first **Azure Static Website** 🚀
+
+This wasn’t just about uploading files — I got hands-on with:
+✅ Azure static website hosting setup
+✅ Configuring permissions & public access
+✅ Deploying a live website in minutes
+
+Here’s my hosted page 👉 **\[Insert your Azure static website link]**
+
+#Azure #DevOps #Cloud #LearningInPublic
 
 *(Note: use your **Azure** static website link, not S3.)*
 
