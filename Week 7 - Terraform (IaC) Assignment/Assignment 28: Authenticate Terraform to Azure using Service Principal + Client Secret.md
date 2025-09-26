@@ -149,7 +149,7 @@ You should see the RG created **without** any `az login` in this shell.
 
 ## Deliverables (What to Submit)
 
-Upload **one PDF** containing:
+Upload **one Google document(Refer assignment submtion instruction google sheets)** containing:
 
 1. The Terraform **plan** snippet (showing provider init + RG create)
 2. Screenshot of the **Resource Group** in Azure Portal
