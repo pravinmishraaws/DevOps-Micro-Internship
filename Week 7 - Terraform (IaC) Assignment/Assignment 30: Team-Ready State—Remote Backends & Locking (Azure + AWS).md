@@ -132,4 +132,3 @@ Name: `Assignment30_RemoteState_Locking_<YourName>.pdf`
 * **Clarity of runbook** (a teammate could use it tomorrow).
 * **Proper references** to the Registry and documented auth choices.
 
-This mirrors what real teams do: set up remote state, enforce locking, document the process, and make it reproducible for everyone.
