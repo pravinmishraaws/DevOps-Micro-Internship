@@ -15,4 +15,7 @@ This is Repository for DevOps Micro Internship by Pravin Mishra
 
 ### [Week 6 - Azure for DevOps Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=320025345#gid=320025345) 
 
+### [Week 7 - Terraform (IaC) Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=234449602#gid=234449602) 
+
+
 
