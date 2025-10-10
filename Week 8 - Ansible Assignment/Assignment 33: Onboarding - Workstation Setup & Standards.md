@@ -214,7 +214,7 @@ Include screenshots:
 4. `ssh-add -l` showing your key loaded
 5. Your repo tree showing the files above
 
-Add a short reflection (4–6 lines) as comment on [this Video](https://youtube.com/live/XqqlV1wbVQ8?feature=share). 
+Add a short reflection (4–6 lines) as comment on [**this Video**](https://youtube.com/live/XqqlV1wbVQ8?feature=share). 
 
 * One thing that makes this setup **team-friendly**
 * One pitfall you avoided (e.g., global pip, missing SSH agent)
