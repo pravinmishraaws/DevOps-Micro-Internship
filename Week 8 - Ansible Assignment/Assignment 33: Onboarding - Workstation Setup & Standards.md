@@ -1,4 +1,4 @@
-# Assignment 33: **Onboarding — Workstation Setup & Standards**
+# Assignment 33: **Onboarding — Workstation Setup, Standards & AI (Go beyond)**
 
 ## Objective
 
