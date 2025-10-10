@@ -17,5 +17,7 @@ This is Repository for DevOps Micro Internship by Pravin Mishra
 
 ### [Week 7 - Terraform (IaC) Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=234449602#gid=234449602) 
 
+### [Week 8 - Ansible Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=1415207495#gid=1415207495) 
+
 
 
