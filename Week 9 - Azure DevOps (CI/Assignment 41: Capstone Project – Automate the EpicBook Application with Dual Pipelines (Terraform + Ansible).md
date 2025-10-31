@@ -38,8 +38,7 @@ You will separate responsibilities across two repositories and two pipelines —
    * Execute: `terraform init`, `plan`, `apply`
    * Produce outputs:
 
-     * `frontend_public_ip`
-     * `backend_public_ip`
+     * `app_public_ip`
      * `mysql_fqdn`
 
 2. **App Pipeline (Azure Pipelines – Ansible)**
