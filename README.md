@@ -19,5 +19,7 @@ This is Repository for DevOps Micro Internship by Pravin Mishra
 
 ### [Week 8 - Ansible Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=1415207495#gid=1415207495) 
 
+### [Week 9 - Azure DevOps (CI/CD) Assignment](https://docs.google.com/spreadsheets/d/1HnlenHEjytvLJMy84bBF-5B1RABaY_BjbfwCj-qnvHM/edit?gid=1968771504#gid=1968771504) 
+
 
 
