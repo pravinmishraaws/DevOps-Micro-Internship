@@ -106,7 +106,7 @@ In Azure DevOps, create a YAML pipeline in the Infra repository with stages for:
 1. Installing Terraform
 2. Initializing backend and providers
 3. Running `terraform plan` and `terraform apply`
-4. Publishing key outputs (Frontend IP, Backend IP, MySQL FQDN)
+4. Publishing key outputs (Application IP, MySQL FQDN)
 
 Validate that resources are provisioned successfully in Azure.
 
@@ -148,7 +148,7 @@ In the App repository, define another Azure DevOps pipeline that:
 ## Submission Guidelines
 
 **File name:**
-`Assignment41_EpicBook_Capstone_<YourName>.pdf`
+`Assignment41_EpicBook_Capstone_<YourName>.doc`
 
 **Include screenshots of:**
 
