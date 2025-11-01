@@ -1,4 +1,4 @@
-# Assignment 41: **Capstone Project – Automate the EpicBook Application with Dual Pipelines (Terraform + Ansible)**
+# Assignment 42: **Capstone Project – Automate the EpicBook Application with Dual Pipelines (Terraform + Ansible)**
 
 ## Objective
 
